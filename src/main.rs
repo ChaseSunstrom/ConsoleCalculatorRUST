@@ -3,7 +3,7 @@ use evalexpr::*;
 
 fn main() {
 
-    println!("Welcome to the calculator! Make sure to enter a valid mathematical operation. And add a space after each character/number. You can only enter in 2 numbers at a time.");
+    println!("Welcome to the calculator! Make sure to enter a valid mathematical operation. And add a space after each character/number.");
 
     loop{
         println!("Enter a mathematical operation.");
