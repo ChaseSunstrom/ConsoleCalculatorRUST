@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ConsoleCalculatorRUST.iml" filepath="$PROJECT_DIR$/ConsoleCalculatorRUST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/console_calculator_rust.iml" filepath="$PROJECT_DIR$/console_calculator_rust.iml" />
     </modules>
   </component>
 </project>
